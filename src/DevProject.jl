@@ -1,5 +1,5 @@
 module DevProject
 
-greet() = print("Hello World!")
+greet() = print("Hello World from DevProject!")
 
 end # module
