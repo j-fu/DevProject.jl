@@ -1,0 +1,4 @@
+name = "DevProject"
+uuid = "3a4cac2b-6849-437b-abe6-97bc7564c79b"
+authors = ["Juergen Fuhrmann <juergen.fuhrmann@wias-berlin.de>"]
+version = "0.1.0"
